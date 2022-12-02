@@ -2,7 +2,7 @@
 Template prepared by Kazumi Slott
 CS311
 min heap class
-
+Helper for EmergencyRoom
 Your name: Tuan Tran
 Your programmer number: 38
 Hours spent making and testing your min heap class: ????
